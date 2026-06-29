@@ -8,3 +8,6 @@ der RS-Gruppe und ihrer Unternehmen.
 - umaris
 - BesserPersonal
 - lewan associates
+
+## Repo Namens Konvention
+(Firmenname zu dem der Prozess gehört)-(Prozess Typ)-(Prozess Beschreibung)
